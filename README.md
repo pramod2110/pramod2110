@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pramod Kumar</h1>
-<h3 align="center">A passionate data scientist enthusiast from India.</h3>
+<h3 align="center">A passionate data Science enthusiast from India.</h3>
 
 - 🔭 I’m currently working at Accenture as an **Advanced Application Engineer Analyst**
 
