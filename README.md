@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pramod Kumar</h1>
 <h3 align="center">A passionate Data Science Enthusiast from India.</h3>
 
-- 🔭 I’m currently working at Accenture as an **Advanced Application Engineer Analyst**
+- 🔭 I’m currently doing my **Masters in Data Science at The University of Maryloand - College Park**
 
 - 🌱 I’m currently learning **Python, R, Data Science**
 
